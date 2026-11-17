@@ -1,0 +1,27 @@
+{
+  "coverage_start": "2024",
+  "coverage_end": "2026",
+  "last_bundled_update": "2026-11-17",
+  "source": "Federal Housing Finance Agency, conforming loan limit values (county list)",
+  "note": "one_unit_baseline is the national baseline limit for one-unit properties; one_unit_ceiling is the contiguous-US high-cost ceiling. HUD keys the FHA annual MIP tier to the baseline.",
+  "limits": [
+    {
+      "year": 2024,
+      "one_unit_baseline": "766550",
+      "one_unit_ceiling": "1149825",
+      "county_rows": 3234
+    },
+    {
+      "year": 2025,
+      "one_unit_baseline": "806500",
+      "one_unit_ceiling": "1209750",
+      "county_rows": 3234
+    },
+    {
+      "year": 2026,
+      "one_unit_baseline": "832750",
+      "one_unit_ceiling": "1249125",
+      "county_rows": 3235
+    }
+  ]
+}

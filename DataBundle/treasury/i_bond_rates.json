@@ -1,0 +1,414 @@
+{
+  "coverage_start": "1998-09-01",
+  "coverage_end": "2027-04-30",
+  "last_bundled_update": "2026-11-17",
+  "source": "U.S. Department of the Treasury (Fiscal Data), I Bonds Interest Rates",
+  "periods": [
+    {
+      "issue_start": "1998-09-01",
+      "issue_end": "1998-10-31",
+      "fixed_rate": "3.40",
+      "semiannual_inflation_rate": "0.62",
+      "composite_rate": "4.66"
+    },
+    {
+      "issue_start": "1998-11-01",
+      "issue_end": "1999-04-30",
+      "fixed_rate": "3.30",
+      "semiannual_inflation_rate": "0.86",
+      "composite_rate": "5.05"
+    },
+    {
+      "issue_start": "1999-05-01",
+      "issue_end": "1999-10-31",
+      "fixed_rate": "3.30",
+      "semiannual_inflation_rate": "0.86",
+      "composite_rate": "5.05"
+    },
+    {
+      "issue_start": "1999-11-01",
+      "issue_end": "2000-04-30",
+      "fixed_rate": "3.40",
+      "semiannual_inflation_rate": "1.76",
+      "composite_rate": "6.98"
+    },
+    {
+      "issue_start": "2000-05-01",
+      "issue_end": "2000-10-31",
+      "fixed_rate": "3.60",
+      "semiannual_inflation_rate": "1.91",
+      "composite_rate": "7.49"
+    },
+    {
+      "issue_start": "2000-11-01",
+      "issue_end": "2001-04-30",
+      "fixed_rate": "3.40",
+      "semiannual_inflation_rate": "1.52",
+      "composite_rate": "6.49"
+    },
+    {
+      "issue_start": "2001-05-01",
+      "issue_end": "2001-10-31",
+      "fixed_rate": "3.00",
+      "semiannual_inflation_rate": "1.44",
+      "composite_rate": "5.92"
+    },
+    {
+      "issue_start": "2001-11-01",
+      "issue_end": "2002-04-30",
+      "fixed_rate": "2.00",
+      "semiannual_inflation_rate": "1.19",
+      "composite_rate": "4.40"
+    },
+    {
+      "issue_start": "2002-05-01",
+      "issue_end": "2002-10-31",
+      "fixed_rate": "2.00",
+      "semiannual_inflation_rate": "0.28",
+      "composite_rate": "2.57"
+    },
+    {
+      "issue_start": "2002-11-01",
+      "issue_end": "2003-04-30",
+      "fixed_rate": "1.60",
+      "semiannual_inflation_rate": "1.23",
+      "composite_rate": "4.08"
+    },
+    {
+      "issue_start": "2003-05-01",
+      "issue_end": "2003-10-31",
+      "fixed_rate": "1.10",
+      "semiannual_inflation_rate": "1.77",
+      "composite_rate": "4.66"
+    },
+    {
+      "issue_start": "2003-11-01",
+      "issue_end": "2004-04-30",
+      "fixed_rate": "1.10",
+      "semiannual_inflation_rate": "0.54",
+      "composite_rate": "2.19"
+    },
+    {
+      "issue_start": "2004-05-01",
+      "issue_end": "2004-10-31",
+      "fixed_rate": "1.00",
+      "semiannual_inflation_rate": "1.19",
+      "composite_rate": "3.39"
+    },
+    {
+      "issue_start": "2004-11-01",
+      "issue_end": "2005-04-30",
+      "fixed_rate": "1.00",
+      "semiannual_inflation_rate": "1.33",
+      "composite_rate": "3.67"
+    },
+    {
+      "issue_start": "2005-05-01",
+      "issue_end": "2005-10-31",
+      "fixed_rate": "1.20",
+      "semiannual_inflation_rate": "1.79",
+      "composite_rate": "4.80"
+    },
+    {
+      "issue_start": "2005-11-01",
+      "issue_end": "2006-04-30",
+      "fixed_rate": "1.00",
+      "semiannual_inflation_rate": "2.85",
+      "composite_rate": "6.73"
+    },
+    {
+      "issue_start": "2006-05-01",
+      "issue_end": "2006-10-31",
+      "fixed_rate": "1.40",
+      "semiannual_inflation_rate": "0.50",
+      "composite_rate": "2.41"
+    },
+    {
+      "issue_start": "2006-11-01",
+      "issue_end": "2007-04-30",
+      "fixed_rate": "1.40",
+      "semiannual_inflation_rate": "1.55",
+      "composite_rate": "4.52"
+    },
+    {
+      "issue_start": "2007-05-01",
+      "issue_end": "2007-10-31",
+      "fixed_rate": "1.30",
+      "semiannual_inflation_rate": "1.21",
+      "composite_rate": "3.74"
+    },
+    {
+      "issue_start": "2007-11-01",
+      "issue_end": "2008-04-30",
+      "fixed_rate": "1.20",
+      "semiannual_inflation_rate": "1.53",
+      "composite_rate": "4.28"
+    },
+    {
+      "issue_start": "2008-05-01",
+      "issue_end": "2008-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "2.42",
+      "composite_rate": "4.84"
+    },
+    {
+      "issue_start": "2008-11-01",
+      "issue_end": "2009-04-30",
+      "fixed_rate": "0.70",
+      "semiannual_inflation_rate": "2.46",
+      "composite_rate": "5.64"
+    },
+    {
+      "issue_start": "2009-05-01",
+      "issue_end": "2009-10-31",
+      "fixed_rate": "0.10",
+      "semiannual_inflation_rate": "-2.78",
+      "composite_rate": "0.00"
+    },
+    {
+      "issue_start": "2009-11-01",
+      "issue_end": "2010-04-30",
+      "fixed_rate": "0.30",
+      "semiannual_inflation_rate": "1.53",
+      "composite_rate": "3.36"
+    },
+    {
+      "issue_start": "2010-05-01",
+      "issue_end": "2010-10-31",
+      "fixed_rate": "0.20",
+      "semiannual_inflation_rate": "0.77",
+      "composite_rate": "1.74"
+    },
+    {
+      "issue_start": "2010-11-01",
+      "issue_end": "2011-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.37",
+      "composite_rate": "0.74"
+    },
+    {
+      "issue_start": "2011-05-01",
+      "issue_end": "2011-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "2.30",
+      "composite_rate": "4.60"
+    },
+    {
+      "issue_start": "2011-11-01",
+      "issue_end": "2012-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "1.53",
+      "composite_rate": "3.06"
+    },
+    {
+      "issue_start": "2012-05-01",
+      "issue_end": "2012-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "1.10",
+      "composite_rate": "2.20"
+    },
+    {
+      "issue_start": "2012-11-01",
+      "issue_end": "2013-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.88",
+      "composite_rate": "1.76"
+    },
+    {
+      "issue_start": "2013-05-01",
+      "issue_end": "2013-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.59",
+      "composite_rate": "1.18"
+    },
+    {
+      "issue_start": "2013-11-01",
+      "issue_end": "2014-04-30",
+      "fixed_rate": "0.20",
+      "semiannual_inflation_rate": "0.59",
+      "composite_rate": "1.38"
+    },
+    {
+      "issue_start": "2014-05-01",
+      "issue_end": "2014-10-31",
+      "fixed_rate": "0.10",
+      "semiannual_inflation_rate": "0.92",
+      "composite_rate": "1.94"
+    },
+    {
+      "issue_start": "2014-11-01",
+      "issue_end": "2015-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.74",
+      "composite_rate": "1.48"
+    },
+    {
+      "issue_start": "2015-05-01",
+      "issue_end": "2015-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "-0.80",
+      "composite_rate": "0.00"
+    },
+    {
+      "issue_start": "2015-11-01",
+      "issue_end": "2016-04-30",
+      "fixed_rate": "0.10",
+      "semiannual_inflation_rate": "0.77",
+      "composite_rate": "1.64"
+    },
+    {
+      "issue_start": "2016-05-01",
+      "issue_end": "2016-10-31",
+      "fixed_rate": "0.10",
+      "semiannual_inflation_rate": "0.08",
+      "composite_rate": "0.26"
+    },
+    {
+      "issue_start": "2016-11-01",
+      "issue_end": "2017-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "1.38",
+      "composite_rate": "2.76"
+    },
+    {
+      "issue_start": "2017-05-01",
+      "issue_end": "2017-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.98",
+      "composite_rate": "1.96"
+    },
+    {
+      "issue_start": "2017-11-01",
+      "issue_end": "2018-04-30",
+      "fixed_rate": "0.10",
+      "semiannual_inflation_rate": "1.24",
+      "composite_rate": "2.58"
+    },
+    {
+      "issue_start": "2018-05-01",
+      "issue_end": "2018-10-31",
+      "fixed_rate": "0.30",
+      "semiannual_inflation_rate": "1.11",
+      "composite_rate": "2.52"
+    },
+    {
+      "issue_start": "2018-11-01",
+      "issue_end": "2019-04-30",
+      "fixed_rate": "0.50",
+      "semiannual_inflation_rate": "1.16",
+      "composite_rate": "2.83"
+    },
+    {
+      "issue_start": "2019-05-01",
+      "issue_end": "2019-10-31",
+      "fixed_rate": "0.50",
+      "semiannual_inflation_rate": "0.70",
+      "composite_rate": "1.90"
+    },
+    {
+      "issue_start": "2019-11-01",
+      "issue_end": "2020-04-30",
+      "fixed_rate": "0.20",
+      "semiannual_inflation_rate": "1.01",
+      "composite_rate": "2.22"
+    },
+    {
+      "issue_start": "2020-05-01",
+      "issue_end": "2020-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.53",
+      "composite_rate": "1.06"
+    },
+    {
+      "issue_start": "2020-11-01",
+      "issue_end": "2021-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "0.84",
+      "composite_rate": "1.68"
+    },
+    {
+      "issue_start": "2021-05-01",
+      "issue_end": "2021-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "1.77",
+      "composite_rate": "3.54"
+    },
+    {
+      "issue_start": "2021-11-01",
+      "issue_end": "2022-04-30",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "3.56",
+      "composite_rate": "7.12"
+    },
+    {
+      "issue_start": "2022-05-01",
+      "issue_end": "2022-10-31",
+      "fixed_rate": "0.00",
+      "semiannual_inflation_rate": "4.81",
+      "composite_rate": "9.62"
+    },
+    {
+      "issue_start": "2022-11-01",
+      "issue_end": "2023-04-30",
+      "fixed_rate": "0.40",
+      "semiannual_inflation_rate": "3.24",
+      "composite_rate": "6.89"
+    },
+    {
+      "issue_start": "2023-05-01",
+      "issue_end": "2023-10-31",
+      "fixed_rate": "0.90",
+      "semiannual_inflation_rate": "1.69",
+      "composite_rate": "4.30"
+    },
+    {
+      "issue_start": "2023-11-01",
+      "issue_end": "2024-04-30",
+      "fixed_rate": "1.30",
+      "semiannual_inflation_rate": "1.97",
+      "composite_rate": "5.27"
+    },
+    {
+      "issue_start": "2024-05-01",
+      "issue_end": "2024-10-31",
+      "fixed_rate": "1.30",
+      "semiannual_inflation_rate": "1.48",
+      "composite_rate": "4.28"
+    },
+    {
+      "issue_start": "2024-11-01",
+      "issue_end": "2025-04-30",
+      "fixed_rate": "1.20",
+      "semiannual_inflation_rate": "0.95",
+      "composite_rate": "3.11"
+    },
+    {
+      "issue_start": "2025-05-01",
+      "issue_end": "2025-10-31",
+      "fixed_rate": "1.10",
+      "semiannual_inflation_rate": "1.43",
+      "composite_rate": "3.98"
+    },
+    {
+      "issue_start": "2025-11-01",
+      "issue_end": "2026-04-30",
+      "fixed_rate": "0.90",
+      "semiannual_inflation_rate": "1.56",
+      "composite_rate": "4.03"
+    },
+    {
+      "issue_start": "2026-05-01",
+      "issue_end": "2026-10-31",
+      "fixed_rate": "0.90",
+      "semiannual_inflation_rate": "1.67",
+      "composite_rate": "4.26"
+    },
+    {
+      "issue_start": "2026-11-01",
+      "issue_end": "2027-04-30",
+      "fixed_rate": "1.40",
+      "semiannual_inflation_rate": "2.04",
+      "composite_rate": "5.51"
+    }
+  ]
+}
