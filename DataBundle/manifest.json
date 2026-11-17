@@ -27,7 +27,7 @@
       "source_type": "official_public_data",
       "file": "fx/frankfurter_rates.json",
       "coverage_start": "2014-12-31",
-      "coverage_end": "2026-11-16",
+      "coverage_end": "2026-11-17",
       "last_bundled_update": "2026-11-17",
       "app_version": "1.0.0",
       "runtime_fetching": true,

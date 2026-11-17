@@ -6,7 +6,7 @@
     },
     "fx/frankfurter_rates.json": {
       "bytes": 77143,
-      "sha256": "d8dae41c7cb5172e6166f91647d277142081d00a85946dfb2680253b66bc2d97"
+      "sha256": "274006a45baf1230009031c3681c338e77d9057e2ba131652832082ec4fa0be3"
     },
     "limits/conforming_loan_limits.json": {
       "bytes": 797,
@@ -30,5 +30,5 @@
     }
   },
   "format": 1,
-  "generated_at": "2026-11-17T07:21:04Z"
+  "generated_at": "2026-11-17T16:53:48Z"
 }
