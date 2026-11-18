@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "app_version": "1.0.0",
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "runtime_fetching": true,
   "note": "Bundled seed for offline use; refreshed at each release (VERSIONING.md checklist). When online the app downloads fresher copies of the runtime_fetching files from the data branch about once a week, or on demand from Settings, and keeps a download only if checksums.json carries a valid signature, the file matches its hash, passes validation, and is newer than the copy it already has.",
   "datasets": [
@@ -14,7 +14,7 @@
       "file": "cpi/bls_cpi_u_monthly.json",
       "coverage_start": "2007-01",
       "coverage_end": "2026-10",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "Bundled seed for offline use; refreshed by scripts/refresh_all.py at release time and by the data branch between releases."
@@ -28,7 +28,7 @@
       "file": "fx/frankfurter_rates.json",
       "coverage_start": "2014-12-31",
       "coverage_end": "2026-11-17",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "Month-end rates (the last ECB business day of each month; the current month keeps its latest day). Bundled seed for offline use; refreshed by scripts/refresh_all.py at release time and by the data branch between releases."
@@ -42,7 +42,7 @@
       "file": "treasury/treasury_rates.json",
       "coverage_start": "2015-01-31",
       "coverage_end": "2026-10-31",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "Average interest rate on all outstanding marketable debt of each type, monthly: a reference figure for the T-Bill calculator, not what a new security yields (see treasury_auction_yields). Refreshed by scripts/refresh_all.py at release time and by the data branch between releases."
@@ -56,7 +56,7 @@
       "file": "treasury/treasury_auctions.json",
       "coverage_start": "2024-01-10",
       "coverage_end": "2026-10-07",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "High (stop-out) yields of completed 10-year Treasury note and 10-year TIPS auctions, new issues and reopenings. The I Bond & TIPS calculator defaults its TIPS real rate and nominal yield to the latest of each. Refreshed by scripts/refresh_all.py at release time and by the data branch between releases."
@@ -70,7 +70,7 @@
       "file": "treasury/i_bond_rates.json",
       "coverage_start": "1998-09-01",
       "coverage_end": "2027-04-30",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "One row per six-month issue window (fixed rate, semiannual inflation rate, composite rate). Treasury announces new rates every May 1 and November 1; the scheduled refresh picks them up the same day."
@@ -84,7 +84,7 @@
       "file": "limits/conforming_loan_limits.json",
       "coverage_start": "2024",
       "coverage_end": "2026",
-      "last_bundled_update": "2026-11-17",
+      "last_bundled_update": "2026-11-18",
       "app_version": "1.0.0",
       "runtime_fetching": true,
       "notes": "National baseline and contiguous-US ceiling one-unit limits per calendar year, parsed from FHFA's county list. FHFA publishes the next year's list in late November; the daily refresh picks it up."

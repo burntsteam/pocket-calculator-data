@@ -2,15 +2,15 @@
   "files": {
     "cpi/bls_cpi_u_monthly.json": {
       "bytes": 15431,
-      "sha256": "c9d79d083d5286930c006c8ac6b952981f091ad6c190be68c919506600067673"
+      "sha256": "2972ef7ab16638e6866370af8dee0d72a542cf9f3a28fbd70ff50328d01fb18f"
     },
     "fx/frankfurter_rates.json": {
       "bytes": 77143,
-      "sha256": "274006a45baf1230009031c3681c338e77d9057e2ba131652832082ec4fa0be3"
+      "sha256": "f6a1c4de65e2532139afdebe4cb0b2e94125ca45e28d9cc6b99b24c52eb09f9b"
     },
     "limits/conforming_loan_limits.json": {
       "bytes": 797,
-      "sha256": "72ce1af9bda11f93a14b1fc00b47542e0b45a959a13c47f2b585239a5a7c3ac8"
+      "sha256": "f8d1a6776d71e7bf31ce5aaa4c57e5c8c859d4cf6c7c3049b65bf32891d74d54"
     },
     "tax/us_income_tax.json": {
       "bytes": 242656,
@@ -18,17 +18,17 @@
     },
     "treasury/i_bond_rates.json": {
       "bytes": 10828,
-      "sha256": "69410205118f88950af5dfb6eef5bd57e6f86da128bcb03417948c2bd340d1eb"
+      "sha256": "b68831c421cc6aeff4308a04935a23603048e69d4e50847ab8f59d4e7dd4b405"
     },
     "treasury/treasury_auctions.json": {
       "bytes": 20019,
-      "sha256": "a1361584cf15317203ee345d504004046407153e7875ad6ae66a4d22473b9be8"
+      "sha256": "16b88364d0d019a3bff48de8c93f2d2804bf62895fd552d9945ec88fcb1f0eca"
     },
     "treasury/treasury_rates.json": {
       "bytes": 60969,
-      "sha256": "9468811c8fddb726d506328697276383d7f3b97be512c2ac33cbdd8aaf0a52b7"
+      "sha256": "3430a44a110d072f32d6bb9e2da5cb93fb69341ee015477e951971a1063b033d"
     }
   },
   "format": 1,
-  "generated_at": "2026-11-17T16:53:48Z"
+  "generated_at": "2026-11-18T07:20:53Z"
 }

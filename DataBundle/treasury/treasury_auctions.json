@@ -1,7 +1,7 @@
 {
   "coverage_start": "2024-01-10",
   "coverage_end": "2026-10-07",
-  "last_bundled_update": "2026-11-17",
+  "last_bundled_update": "2026-11-18",
   "source": "U.S. Department of the Treasury (Fiscal Data), Treasury Securities Auctions Data",
   "note": "Completed auctions of 10-year Treasury notes and 10-year TIPS, new issues and reopenings. high_yield is the auction's high (stop-out) yield in percent: nominal for notes, real for TIPS.",
   "auctions": [
